@@ -1,0 +1,9 @@
+{
+  "name": "liquibase-test-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "liquibase": "^4.4.0"
+  }
+}
